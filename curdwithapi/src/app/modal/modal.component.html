@@ -1,0 +1,25 @@
+<div class="modal-header">
+    <h4 class="modal-title">Add Item</h4>
+    <button type="button" class="close" aria-label="Close" (click)="activeModal.dismiss()">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <form [formGroup]="itemForm" (ngSubmit)="onSubmit()">
+      <div class="form-group">
+        <label for="name">Name</label>
+        <input id="name" class="form-control" formControlName="name" required>
+       
+      </div>
+      <div class="form-group">
+        <label for="description">Description</label>
+        <textarea id="description" class="form-control" formControlName="description" required></textarea>
+      </div>
+      <div class="form-group">
+        <label for="imageUrl">Image URL</label>
+        <input id="imageUrl" class="form-control" formControlName="imageUrl" required>
+      </div>
+      <br/>
+      <button type="submit" class="btn btn-primary">{{isAdded?'Submit':'Update'}}</button>
+    </form>
+  </div>

@@ -1,0 +1,12 @@
+D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json
+D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
