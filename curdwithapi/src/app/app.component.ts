@@ -28,10 +28,14 @@ export class AppComponent {
   }
   GetAllImages()
   {
-    this.service.getImages().subscribe(x=>{
-      this.Imagedata=x
+    this.service.getImages().subscribe((result)=>{
+      this.Imagedata=result;
+    },
+    (error)=>{
+
+    }
       
-    })
+    )
   }
   initializeItem(): void {
     this.item = {
@@ -49,7 +53,7 @@ export class AppComponent {
     modalRef.componentInstance.itemData=this.item;
     modalRef.result.then((result) => {
       
-      
+      this.GetAllImages();
     }, (reason) => {
      
     });

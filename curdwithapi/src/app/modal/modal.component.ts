@@ -4,6 +4,7 @@ import { NgbActiveModal } from '@ng-bootstrap/ng-bootstrap';
 import { ImageInfo } from '../models/image-info.model';
 import { ImagemanagerService } from '../imagemanager.service';
 
+
 @Component({
   selector: 'app-modal',
   standalone: true,
@@ -19,7 +20,8 @@ export class ModalComponent implements OnInit, OnChanges {
   constructor(
     public activeModal: NgbActiveModal,
     private fb: FormBuilder,
-    private service: ImagemanagerService
+    private service: ImagemanagerService,
+   
   ) {}
 
   ngOnInit(): void {
@@ -44,7 +46,10 @@ export class ModalComponent implements OnInit, OnChanges {
         [Validators.required ]],
     });
   }
-
+ ResetForm()
+ {
+  this.itemForm.reset()
+ }
   onSubmit(): void {
     if (this.itemForm.valid) {
       this.itemData.name = this.itemForm.value.name;
@@ -55,26 +60,26 @@ export class ModalComponent implements OnInit, OnChanges {
       if (this.isAdded) {
         this.service.PostImages(this.itemData).subscribe(
           () => {
-            alert('Added Successfully');
+            alert('New Record Added Successfully');
             this.activeModal.close(this.itemForm.value);
           },
           (error) => {
-            console.error('Error adding image:', error);
             alert('Failed to add image. Please try again.');
           }
         );
       } else {
         this.service.UpdateImage(this.itemData.id, this.itemData).subscribe(
           () => {
-            alert('Updated Successfully');
+           alert('Updated Successfully');
             this.activeModal.close(this.itemForm.value);
           },
           (error) => {
-            console.error('Error updating image:', error);
             alert('Failed to update image. Please try again.');
           }
         );
       }
     } 
+    this.ResetForm();
   }
+
 }

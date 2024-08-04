@@ -49,9 +49,19 @@ namespace CURDWithJson.Controllers
                 }
                 else
                 {
-                    image.Id= img.Id;
-                    img = image;
-                 
+                   
+                 foreach(var item in images)
+                    {
+                        if(item.Id==Id)
+                        {
+                            item.Id = Id;
+                            item.Name = image.Name;
+                            item.URL = image.URL;
+                            item.CreatedOn = DateTime.Now;
+                            item.Description = image.Description;
+                            break;
+                        }
+                    }
                     _jsonFileService.WriteImageData(images);
                     return NoContent();
 

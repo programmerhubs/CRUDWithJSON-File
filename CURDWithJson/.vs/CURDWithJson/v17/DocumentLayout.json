@@ -1,44 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\",
+  "WorkspaceRootPath": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\CRUDWithJSON-File\\curdwithapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|d:\\project\\crudwithjson-file\\curdwithjson\\curdwithjson\\curdwithjson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|solutionrelative:curdwithjson\\curdwithjson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|d:\\project\\crudwithjson-file\\curdwithjson\\curdwithjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|solutionrelative:curdwithjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|d:\\project\\crudwithjson-file\\curdwithjson\\curdwithjson\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|d:\\project\\gitcode\\crudwithjson-file\\curdwithjson\\curdwithjson\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|solutionrelative:curdwithjson\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54D26A95-D077-4C8B-BD44-F4F6E8470DD1}|ServiceLayer\\ServiceLayer.csproj|d:\\project\\crudwithjson-file\\curdwithjson\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{54D26A95-D077-4C8B-BD44-F4F6E8470DD1}|ServiceLayer\\ServiceLayer.csproj|d:\\project\\gitcode\\crudwithjson-file\\curdwithjson\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{54D26A95-D077-4C8B-BD44-F4F6E8470DD1}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|d:\\project\\crudwithjson-file\\curdwithjson\\curdwithjson\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|solutionrelative:curdwithjson\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54D26A95-D077-4C8B-BD44-F4F6E8470DD1}|ServiceLayer\\ServiceLayer.csproj|d:\\project\\crudwithjson-file\\curdwithjson\\servicelayer\\jsonfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54D26A95-D077-4C8B-BD44-F4F6E8470DD1}|ServiceLayer\\ServiceLayer.csproj|d:\\project\\gitcode\\crudwithjson-file\\curdwithjson\\servicelayer\\jsonfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54D26A95-D077-4C8B-BD44-F4F6E8470DD1}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\jsonfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|d:\\project\\crudwithjson-file\\curdwithjson\\curdwithjson\\imagedetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|solutionrelative:curdwithjson\\imagedetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53DEFE2-A0D0-452E-8942-D1808B48B798}|DomainLayer\\DomainLayer.csproj|d:\\project\\crudwithjson-file\\curdwithjson\\domainlayer\\entities\\imgdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A53DEFE2-A0D0-452E-8942-D1808B48B798}|DomainLayer\\DomainLayer.csproj|d:\\project\\gitcode\\crudwithjson-file\\curdwithjson\\domainlayer\\entities\\imgdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A53DEFE2-A0D0-452E-8942-D1808B48B798}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\imgdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A53DEFE2-A0D0-452E-8942-D1808B48B798}|DomainLayer\\DomainLayer.csproj|d:\\project\\crudwithjson-file\\curdwithjson\\domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|d:\\project\\gitcode\\crudwithjson-file\\curdwithjson\\curdwithjson\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|solutionrelative:curdwithjson\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|d:\\project\\gitcode\\crudwithjson-file\\curdwithjson\\curdwithjson\\curdwithjson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|solutionrelative:curdwithjson\\curdwithjson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|d:\\project\\gitcode\\crudwithjson-file\\curdwithjson\\curdwithjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|solutionrelative:curdwithjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|d:\\project\\gitcode\\crudwithjson-file\\curdwithjson\\curdwithjson\\imagedetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD621E29-F84F-4773-9709-5C16099E137A}|CURDWithJson\\CURDWithJson.csproj|solutionrelative:curdwithjson\\imagedetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53DEFE2-A0D0-452E-8942-D1808B48B798}|DomainLayer\\DomainLayer.csproj|d:\\project\\gitcode\\crudwithjson-file\\curdwithjson\\domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A53DEFE2-A0D0-452E-8942-D1808B48B798}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -49,40 +46,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\Project\\CRUDWithJSON-File\\curdwithapi\\.gitignore",
-              "RelativeDocumentMoniker": "..\\curdwithapi\\.gitignore",
-              "ToolTip": "D:\\Project\\CRUDWithJSON-File\\curdwithapi\\.gitignore",
-              "RelativeToolTip": "..\\curdwithapi\\.gitignore",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAwCoAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-08-02T03:02:18.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "GlobalExceptionHandler.cs",
-              "DocumentMoniker": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\Middleware\\GlobalExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\Middleware\\GlobalExceptionHandler.cs",
               "RelativeDocumentMoniker": "CURDWithJson\\Middleware\\GlobalExceptionHandler.cs",
-              "ToolTip": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\Middleware\\GlobalExceptionHandler.cs",
+              "ToolTip": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\Middleware\\GlobalExceptionHandler.cs",
               "RelativeToolTip": "CURDWithJson\\Middleware\\GlobalExceptionHandler.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAowCMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T03:19:07.776Z"
+              "WhenOpened": "2024-07-28T03:19:07.776Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ImageDetails.json",
-              "DocumentMoniker": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\ImageDetails.json",
+              "DocumentMoniker": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\ImageDetails.json",
               "RelativeDocumentMoniker": "CURDWithJson\\ImageDetails.json",
-              "ToolTip": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\ImageDetails.json",
+              "ToolTip": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\ImageDetails.json",
               "RelativeToolTip": "CURDWithJson\\ImageDetails.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -90,11 +75,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\Program.cs",
+              "DocumentMoniker": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\Program.cs",
               "RelativeDocumentMoniker": "CURDWithJson\\Program.cs",
-              "ToolTip": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\Program.cs",
+              "ToolTip": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\Program.cs",
               "RelativeToolTip": "CURDWithJson\\Program.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAiwCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,36 +87,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CURDWithJson.csproj",
-              "DocumentMoniker": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\CURDWithJson.csproj",
+              "DocumentMoniker": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\CURDWithJson.csproj",
               "RelativeDocumentMoniker": "CURDWithJson\\CURDWithJson.csproj",
-              "ToolTip": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\CURDWithJson.csproj",
+              "ToolTip": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\CURDWithJson.csproj",
               "RelativeToolTip": "CURDWithJson\\CURDWithJson.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-28T02:14:08.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ImageController.cs",
-              "DocumentMoniker": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\Controllers\\ImageController.cs",
+              "DocumentMoniker": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\Controllers\\ImageController.cs",
               "RelativeDocumentMoniker": "CURDWithJson\\Controllers\\ImageController.cs",
-              "ToolTip": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\Controllers\\ImageController.cs",
+              "ToolTip": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\Controllers\\ImageController.cs",
               "RelativeToolTip": "CURDWithJson\\Controllers\\ImageController.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAiwEkAAAAgAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T02:13:23.963Z"
+              "WhenOpened": "2024-07-28T02:13:23.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ServiceLayer.csproj",
-              "DocumentMoniker": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\ServiceLayer\\ServiceLayer.csproj",
+              "DocumentMoniker": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\ServiceLayer\\ServiceLayer.csproj",
               "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayer.csproj",
-              "ToolTip": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\ServiceLayer\\ServiceLayer.csproj",
+              "ToolTip": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\ServiceLayer\\ServiceLayer.csproj",
               "RelativeToolTip": "ServiceLayer\\ServiceLayer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -140,35 +126,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "JsonFileService.cs",
-              "DocumentMoniker": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\ServiceLayer\\JsonFileService.cs",
+              "DocumentMoniker": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\ServiceLayer\\JsonFileService.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\JsonFileService.cs",
-              "ToolTip": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\ServiceLayer\\JsonFileService.cs",
+              "ToolTip": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\ServiceLayer\\JsonFileService.cs",
               "RelativeToolTip": "ServiceLayer\\JsonFileService.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAgwEEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T01:52:14.17Z"
+              "WhenOpened": "2024-07-28T01:52:14.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImgDetails.cs",
+              "DocumentMoniker": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\Entities\\ImgDetails.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\ImgDetails.cs",
+              "ToolTip": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\Entities\\ImgDetails.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\ImgDetails.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T01:37:40.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ImgDetails.cs",
-              "DocumentMoniker": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\Entities\\ImgDetails.cs",
-              "RelativeDocumentMoniker": "DomainLayer\\Entities\\ImgDetails.cs",
-              "ToolTip": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\Entities\\ImgDetails.cs",
-              "RelativeToolTip": "DomainLayer\\Entities\\ImgDetails.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T01:37:40.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "DomainLayer.csproj",
-              "DocumentMoniker": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj",
+              "DocumentMoniker": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj",
               "RelativeDocumentMoniker": "DomainLayer\\DomainLayer.csproj",
-              "ToolTip": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj",
+              "ToolTip": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj",
               "RelativeToolTip": "DomainLayer\\DomainLayer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
