@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj": {}
+    "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj": {}
   },
   "projects": {
-    "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj": {
+    "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\Rohit\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\obj\\",
+        "outputPath": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",

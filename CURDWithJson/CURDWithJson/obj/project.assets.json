@@ -512,11 +512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\CURDWithJson.csproj",
+      "projectUniqueName": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\CURDWithJson.csproj",
       "projectName": "CURDWithJson",
-      "projectPath": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\CURDWithJson.csproj",
+      "projectPath": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\CURDWithJson.csproj",
       "packagesPath": "C:\\Users\\Rohit\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\obj\\",
+      "outputPath": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\CURDWithJson\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -534,11 +534,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj": {
-              "projectPath": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj"
+            "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj": {
+              "projectPath": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\DomainLayer\\DomainLayer.csproj"
             },
-            "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\ServiceLayer\\ServiceLayer.csproj": {
-              "projectPath": "D:\\Project\\CRUDWithJSON-File\\CURDWithJson\\ServiceLayer\\ServiceLayer.csproj"
+            "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\ServiceLayer\\ServiceLayer.csproj": {
+              "projectPath": "D:\\Project\\gitCode\\CRUDWithJSON-File\\CURDWithJson\\ServiceLayer\\ServiceLayer.csproj"
             }
           }
         }

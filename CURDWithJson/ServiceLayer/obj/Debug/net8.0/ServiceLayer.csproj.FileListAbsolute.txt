@@ -14,3 +14,19 @@ D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\C
 D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
 D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
 D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\obj\Debug\net8.0\ServiceLayer.sourcelink.json
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll

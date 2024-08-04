@@ -37,3 +37,42 @@ D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\C
 D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\CURDWithJson\obj\Debug\net8.0\CURDWithJson.genruntimeconfig.cache
 D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\CURDWithJson\obj\Debug\net8.0\ref\CURDWithJson.dll
 D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\CURDWithJson\bin\Debug\net8.0\ImageDetails.json
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\appsettings.Development.json
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\appsettings.json
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\ImageDetails.json
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\CURDWithJson.exe
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\CURDWithJson.deps.json
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\CURDWithJson.runtimeconfig.json
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\CURDWithJson.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\CURDWithJson.pdb
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\DomainLayer.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\ServiceLayer.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\DomainLayer.pdb
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\bin\Debug\net8.0\ServiceLayer.pdb
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\CURDWithJson.csproj.AssemblyReference.cache
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\CURDWithJson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\CURDWithJson.AssemblyInfoInputs.cache
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\CURDWithJson.AssemblyInfo.cs
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\CURDWithJson.csproj.CoreCompileInputs.cache
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\CURDWithJson.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\CURDWithJson.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\CURDWithJson.sourcelink.json
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\staticwebassets\msbuild.CURDWithJson.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\staticwebassets\msbuild.build.CURDWithJson.props
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CURDWithJson.props
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CURDWithJson.props
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\scopedcss\bundle\CURDWithJson.styles.css
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\CURDWith.B96ED4F2.Up2Date
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\CURDWithJson.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\refint\CURDWithJson.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\CURDWithJson.pdb
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\CURDWithJson.genruntimeconfig.cache
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\CURDWithJson\obj\Debug\net8.0\ref\CURDWithJson.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CURDWithJson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2b4d1d54ba4984f70043bae217e78097243fa6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CURDWithJson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CURDWithJson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

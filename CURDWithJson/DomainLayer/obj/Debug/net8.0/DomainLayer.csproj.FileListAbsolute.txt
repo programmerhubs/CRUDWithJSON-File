@@ -10,3 +10,15 @@ D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\C
 D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
 D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
 D:\Full Stack Dotnet With Angular\WebAPI\CURD-Operation-with-Json-Donet-WebAPI\CURDWithJson\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+D:\Project\gitCode\CRUDWithJSON-File\CURDWithJson\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
