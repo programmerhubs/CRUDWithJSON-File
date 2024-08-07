@@ -23,7 +23,6 @@ export class ImageInfoComponent implements OnInit, OnChanges {
   pageSize: number = 10; 
   totalItems: number = 0;
   pageSizes: number[] = [5, 10, 20];
-
   constructor(
  
     private service: ImagemanagerService,
@@ -32,7 +31,9 @@ export class ImageInfoComponent implements OnInit, OnChanges {
   ) {}
 
   ngOnInit(): void {
+
     this.filteredData = this.data;
+    
     this.totalItems = this.filteredData.length;
     this.updatePaginatedData();
   }

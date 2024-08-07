@@ -1,31 +1,59 @@
-.card-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px; /* Adjust the space between cards as needed */
-    padding: 20px; /* Optional: Add padding around the container */
-  }
-  
-  .card {
-    flex: 1 1 calc(33.333% - 20px); /* 3 cards per row, minus gap */
-    box-sizing: border-box; /* Ensures padding and borders are included in width calculation */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for better visuals */
-    border-radius: 8px; /* Optional: Add rounded corners */
-    overflow: hidden; /* Ensures content doesn’t overflow */
-  }
-  
-  .card-img-top {
-    width: 100%; /* Ensures the image covers the width of the card */
-    object-fit: cover; /* Ensures the image covers the area without distortion */
-  }
-  @media (max-width: 1200px) {
-    .card-container {
-      grid-template-columns: repeat(2, 1fr); /* 2 cards per row on medium screens */
-    }
-  }
-  
-  @media (max-width: 768px) {
-    .card-container {
-      grid-template-columns: 1fr; /* 1 card per row on small screens */
-    }
-  }
-    
+.table {
+  margin-bottom: 0;
+  border-radius: 2px;
+}
+.table th {
+  background-color: #147ae0; 
+  color:#fff;
+  border:none;  
+  font-weight: 200;
+}
+.table td {
+  vertical-align: middle;}
+  .img-thumbnail {
+    border: 1px solid #dee2e6; 
+    border-radius: 0.25rem; 
+    padding: 0px;
+    height: 43px;
+}
+
+/* #example > tbody > tr > td:nth-child(1){
+  display: flex;
+  justify-content: center;
+} */
+
+#example > tbody > tr > td:nth-child(4) > button:nth-child(1){
+  padding: 2px;
+  margin: 0px;
+}
+
+body > app-root > div > div.row.mb-3 > div > button > svg{
+  padding-bottom: 3px;
+}
+
+#example > tbody > tr > td:nth-child(4) > button:nth-child(2){
+  padding: 0px;
+  margin: 0px;
+}
+
+#example > tbody > tr > td:nth-child(1) > span{
+  padding-left: 6px;
+}
+
+.pagination {
+    margin-top: 1rem; 
+}
+
+.page-item.disabled .page-link {
+    color: #6c757d; 
+    pointer-events: none; 
+}
+
+.page-link {
+    color: #007bff; 
+}
+
+.page-link:hover {
+    color: #0056b3; 
+    text-decoration: underline; 
+}

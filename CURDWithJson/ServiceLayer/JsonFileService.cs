@@ -32,7 +32,7 @@ namespace ServiceLayer
                 }
                 else
                 {
-                    List<ImgDetails> images = JsonConvert.DeserializeObject<List<ImgDetails>>(jsonImage);
+                    List<ImgDetails> images = JsonConvert.DeserializeObject<List<ImgDetails>>(jsonImage).OrderBy(x=>x.CreatedOn).ToList();
                     return images ?? new List<ImgDetails>();
 
                 }

@@ -1,0 +1,21 @@
+.btn-close
+{
+   
+    border: none;
+    color:#000;
+    
+    cursor: pointer;
+}
+.btn-close:hover
+{
+    
+    color:#ff0000;
+    transform: scale(1.1);
+    transition: color 0.3s, transform 0.3s;
+}
+.modal-title {
+    margin-right: auto;
+}
+.modal-header {
+    padding: 1rem;
+}
